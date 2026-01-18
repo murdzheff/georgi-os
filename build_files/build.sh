@@ -30,7 +30,7 @@ dnf5 -y install dms
 dnf5 -y copr disable avengemedia/dms
 
 
-dnf5 -y install hyprland hyprlock hypridle hyprpaper grim slurp hyprsunset
+dnf5 -y install niri 
 #### Example for enabling a System Unit File
 
 
