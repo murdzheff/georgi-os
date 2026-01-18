@@ -32,7 +32,7 @@ dnf5 -y copr disable avengemedia/dms
 dnf5 -y copr enable solopasha/hyprland
 
 dnf5 -y install hyprland hyprlock hypridle hyprpaper grim slurp hyprsunset
-dnf5 -y install hyprpicker hyprpolkitagent hyprshot cliphist nwg-clipman
+dnf5 -y install hyprpolkitagent hyprshot
 #### Example for enabling a System Unit File
 
 dnf5 -y copr disable solopasha/hyprland
